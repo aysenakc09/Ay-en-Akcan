@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recloth - Ana Sayfa</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <a href="index.html" class="logo">Recloth</a>
+        <ul class="nav-links">
+            <li><a href="index.html">Ana Sayfa</a></li>
+            <li><a href="about.html">Hakkımızda</a></li>
+            <li><a href="#solutions">Çözümler</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Bölümü -->
+    <section class="hero-section">
+        <h1>Atık Kıyafetleri Yeniden Değerlendir</h1>
+        <p>Dünyada her yıl milyonlarca ton tekstil atığı oluşuyor. Recloth olarak, atık kıyafetleri toplayıp, yeniden üretim sürecine dahil ediyor ve sürdürülebilir modayı teşvik ediyoruz.</p>
+        <img src="https://cdn.recyclopedia.sg/strapi-assets/medium_textile_recycling_de2d3573b8.jpg" alt="Geri Dönüşüm" class="hero-img">
+        <div class="animated-line"></div>
+    </section>
+
+    <!-- Problemler Bölümü -->
+    <section class="problems">
+        <h2>Problemler</h2>
+        <div class="problem-item">
+            <img src="https://www.indyturk.com/sites/default/files/styles/800xauto/public/thumbnails/image/2021/11/08/793866-276644731.jpg" alt="Kıyafet Atıkları">
+            <p>Afrika kıtası, özellikle Batı Afrika, her yıl milyonlarca kilogram ikinci el kıyafetle doluyor. Bu kıyafetlerin %70’i doğrudan çöpe gidiyor veya kontrolsüz bir şekilde çevreye bırakılıyor. Özellikle Nijerya, Kenya ve Etiyopya gibi ülkelerde, bu atıklar nehirleri ve tarım alanlarını kirleterek ekosisteme büyük zarar veriyor.</p>
+        </div>
+        <div class="problem-item">
+            <img src="https://cdn.myikas.com/images/7876396c-9b50-495e-aed6-70d32a5158a6/a91db7fc-782b-4b70-a93d-e4a74057bcef/image_1080.jpg" alt="Atık Kıyafet Yığını">
+            <p>Tekstil endüstrisi, karbon ayak izinin büyük bir kısmını oluşturuyor. Atık kıyafetler geri dönüştürülmediğinde, bunlar sadece çöp alanlarında birikmekle kalmıyor, aynı zamanda metan gazı ve diğer sera gazlarını yayarak küresel ısınmayı artırıyor. Her yıl yaklaşık 92 milyon ton tekstil atığı dünya genelinde oluşuyor.</p>
+        </div>
+    </section>
+
+    <!-- Çözümlerimiz Bölümü -->
+    <section class="solutions" id="solutions">
+        <h2>Çözümlerimiz</h2>
+        <div class="solution">
+            <img src="https://cdn.recyclopedia.sg/strapi-assets/medium_textile_recycling_de2d3573b8.jpg" alt="Geri Dönüşüm Süreci">
+            <p>Recloth olarak atık kıyafetleri topluyor, ayrıştırıyor ve yeniden kullanılabilir ürünler hâline getiriyoruz. Mağazalarda haftalık olarak ikinci el kıyafet satışları düzenliyor, workshoplarla insanların geri dönüşüm konusunda bilinçlenmesini sağlıyoruz. Bu süreçte eski kıyafetler çanta, halı veya yeni kıyafetler olarak yeniden hayat buluyor.</p>
+        </div>
+        <div class="solution">
+            <img src="https://cdn.myikas.com/images/7876396c-9b50-495e-aed6-70d32a5158a6/a91db7fc-782b-4b70-a93d-e4a74057bcef/image_1080.jpg" alt="Atıkların Yeniden Değerlendirilmesi">
+            <p>Bu projeler sayesinde, Afrika’dan geri gelen kullanılmamış veya atık kıyafetler tekrar işlenip ekonomiye kazandırılıyor. Atık kıyafetlerin değerlendirilmesi hem çevreyi koruyor hem de yerel üreticilere iş imkânı sağlıyor. Böylece sürdürülebilir moda ile çevre kirliliği azaltılıyor.</p>
+        </div>
+    </section>
+
+</body>
+</html>

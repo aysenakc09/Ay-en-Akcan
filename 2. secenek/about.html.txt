@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımızda - Recloth</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <a href="index.html" class="logo">Recloth</a>
+        <ul class="nav-links">
+            <li><a href="index.html">Ana Sayfa</a></li>
+            <li><a href="about.html">Hakkımızda</a></li>
+            <li><a href="index.html#solutions">Çözümler</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hakkımızda -->
+    <section class="about-us">
+        <h1>Hakkımızda</h1>
+        <div class="about-container">
+            <div class="about-text">
+                <p>Ben İstem Koleji öğrencisiyim ve atık kıyafetlerin geri dönüşümü konusunda çözüm arıyorum. Amacımız, atık kıyafetleri toplamak, ayrıştırmak ve yeniden üretim sürecine dahil etmek. Haftada bir mağazalarda ikinci el kıyafet satışı düzenleniyor, workshoplarla insanlar geri dönüşüm sürecine katılıyor. Bu sayede eski kıyafetler çanta, halı veya yeni kıyafetler hâline geliyor ve çevre kirliliği önleniyor.</p>
+                <p>Afrika'da ve diğer bölgelerde tekstil atıkları ciddi bir problem oluşturuyor. Özellikle geri dönüştürülmeyen kıyafetler nehirleri, tarım alanlarını ve doğal yaşamı tehdit ediyor. Projemiz sayesinde, bu atıklar ekonomiye kazandırılıyor ve sürdürülebilir moda destekleniyor.</p>
+            </div>
+            <div class="about-image">
+                <img src="https://cdn.recyclopedia.sg/strapi-assets/medium_textile_recycling_de2d3573b8.jpg" alt="Geri Dönüşüm">
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
